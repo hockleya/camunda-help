@@ -1,0 +1,6 @@
+org\camunda\bpm\subdivisionprocess\EmailSender.class
+org\camunda\bpm\subdivisionprocess\IdentifyPropertiesAssignmentListener.class
+org\camunda\bpm\subdivisionprocess\SubdivisionProcessApplication.class
+org\camunda\bpm\subdivisionincidents\IncidentHandlerProcessEnginePlugin.class
+org\camunda\bpm\subdivisionincidents\SubdivisionIncident.class
+org\camunda\bpm\subdivisionincidents\SubdivisionIncidentHandler.class
